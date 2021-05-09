@@ -34,7 +34,7 @@ python osint.py / python3 osint.py
 
 ## License & Contact
 
-This tool is free to use, modify, and whatever, this tool is for educational purposes only & as documentation (me). if there are difficulties in running the tool or experiencing errors, please contact me at [@headlessman7](https://t.me/headlessman7).
+This tool is free to use, modify, and whatever, this tool is for educational purposes only & as documentation (me), if there is abuse in using this tool, the maker 100% will not be responsible. if there are difficulties in running the tool or experiencing errors, please contact me at [@headlessman7](https://t.me/headlessman7).
 
 ## Donate BTC
 
