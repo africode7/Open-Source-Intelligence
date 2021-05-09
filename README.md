@@ -1,5 +1,6 @@
 # Open Source Intelligence
 ![badge](https://img.shields.io/badge/Coded%20by-HeadlessMan-green)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![code size](https://img.shields.io/github/languages/code-size/africode7/Open-Source-Intelligence)
 ![languages](https://img.shields.io/github/languages/count/africode7/Open-Source-Intelligence)
 ![languages](https://img.shields.io/github/languages/top/africode7/Open-Source-Intelligence)
