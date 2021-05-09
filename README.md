@@ -22,6 +22,7 @@ pip install numpy
 pip install requests-html
 pip install BeautifulSoup
 pip install colorama
+pip install instaloader
 ```
 
 ## How to install tool
